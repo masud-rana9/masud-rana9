@@ -1,4 +1,4 @@
-![logo](https://github.com/masud-rana9/masud-rana9/blob/main/Capture2.PNG)
+![logo](https://github.com/masud-rana9/masud-rana9/blob/main/Blue%20and%20Pink%20Modern%20Personal%20LinkedIn%20Banner.png)
 <!--<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>-->
 <h1 align="center">WELCOME TO MY GitHub PROFILE!</h1>
 <h1 align="center">Hi 👋, I'm  Md Masud Rana</h1>
